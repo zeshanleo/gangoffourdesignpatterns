@@ -1,0 +1,6 @@
+C:\Users\zeshanq\source\repos\GOF Design Patterns\Iterater\Iterater\bin\Debug\Iterater.exe.config
+C:\Users\zeshanq\source\repos\GOF Design Patterns\Iterater\Iterater\bin\Debug\Iterater.exe
+C:\Users\zeshanq\source\repos\GOF Design Patterns\Iterater\Iterater\bin\Debug\Iterater.pdb
+C:\Users\zeshanq\source\repos\GOF Design Patterns\Iterater\Iterater\obj\Debug\Iterater.csproj.CoreCompileInputs.cache
+C:\Users\zeshanq\source\repos\GOF Design Patterns\Iterater\Iterater\obj\Debug\Iterater.exe
+C:\Users\zeshanq\source\repos\GOF Design Patterns\Iterater\Iterater\obj\Debug\Iterater.pdb

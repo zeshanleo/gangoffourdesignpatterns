@@ -1,0 +1,6 @@
+C:\Users\zeshanq\source\repos\GOF Design Patterns\Facade\Facade\bin\Debug\Facade.exe.config
+C:\Users\zeshanq\source\repos\GOF Design Patterns\Facade\Facade\bin\Debug\Facade.exe
+C:\Users\zeshanq\source\repos\GOF Design Patterns\Facade\Facade\bin\Debug\Facade.pdb
+C:\Users\zeshanq\source\repos\GOF Design Patterns\Facade\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\zeshanq\source\repos\GOF Design Patterns\Facade\Facade\obj\Debug\Facade.exe
+C:\Users\zeshanq\source\repos\GOF Design Patterns\Facade\Facade\obj\Debug\Facade.pdb

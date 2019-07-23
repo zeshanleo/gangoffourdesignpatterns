@@ -1,0 +1,6 @@
+C:\Users\zeshanq\source\repos\GOF Design Patterns\Observer\Observer\bin\Debug\Observer.exe.config
+C:\Users\zeshanq\source\repos\GOF Design Patterns\Observer\Observer\bin\Debug\Observer.exe
+C:\Users\zeshanq\source\repos\GOF Design Patterns\Observer\Observer\bin\Debug\Observer.pdb
+C:\Users\zeshanq\source\repos\GOF Design Patterns\Observer\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\zeshanq\source\repos\GOF Design Patterns\Observer\Observer\obj\Debug\Observer.exe
+C:\Users\zeshanq\source\repos\GOF Design Patterns\Observer\Observer\obj\Debug\Observer.pdb
